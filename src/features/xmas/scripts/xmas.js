@@ -2,7 +2,7 @@
 const asciiArtList = [
       `
   Merry Christmas
-       2023
+       2025
 
         ★
       ／&＼
@@ -19,7 +19,7 @@ const asciiArtList = [
       `,
       `
   Merry Christmas
-       2023
+       2025
 
         ★
       ／&＼
@@ -36,7 +36,7 @@ const asciiArtList = [
       `,
       `
   Merry Christmas
-       2023
+       2025
 
         ★
       ／&＼
@@ -54,7 +54,7 @@ const asciiArtList = [
       ,
       `
   Merry Christmas
-       2023
+       2025
 
         ★
       ／&＼

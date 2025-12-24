@@ -1,7 +1,7 @@
 
 module.exports = {
   root: 'src',
-  base: "/xmas-2023/",
+  base: "/xmas/",
   build: {
     outDir: '../docs'
   }
