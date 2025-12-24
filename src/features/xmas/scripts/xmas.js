@@ -2,7 +2,7 @@
 const asciiArtList = [
       `
   Merry Christmas
-       2025
+       ${new Date().getFullYear()}
 
         ★
       ／&＼
@@ -19,7 +19,7 @@ const asciiArtList = [
       `,
       `
   Merry Christmas
-       2025
+       ${new Date().getFullYear()}
 
         ★
       ／&＼
@@ -36,7 +36,7 @@ const asciiArtList = [
       `,
       `
   Merry Christmas
-       2025
+       ${new Date().getFullYear()}
 
         ★
       ／&＼
@@ -54,7 +54,7 @@ const asciiArtList = [
       ,
       `
   Merry Christmas
-       2025
+       ${new Date().getFullYear()}
 
         ★
       ／&＼
